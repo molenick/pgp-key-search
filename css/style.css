@@ -1,0 +1,13 @@
+body {
+  background: #ddd;
+}
+
+#page {
+  width: 80%;
+  margin: auto;
+  margin-top: -20px;
+  padding: 20px 20px 0px 20px;
+  background: #fff;
+  padding-bottom: 40px;
+  min-width: 480px;
+}
