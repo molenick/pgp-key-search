@@ -1,5 +1,13 @@
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Bitter-Regular'), url(../fonts/bitter.ttf) format('truetype');
+}
+
 body {
   background: #ddd;
+  font-family: Bitter, sans-serif;
 }
 
 #page {
